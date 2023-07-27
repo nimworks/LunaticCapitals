@@ -1,0 +1,79 @@
+{
+	"short_name": "Lunatic Capital",
+	"name": "Lunatic Capital",
+	"description": "High growth funds manager",
+	"icons": [
+		{
+			"src": "/img/icons/icons-vector.svg",
+			"type": "image/svg+xml",
+			"sizes": "512x512",
+			"purpose": "maskable"
+		},
+		{
+			"src": "/img/icons/icons-192.png",
+			"type": "image/png",
+			"sizes": "192x192",
+			"purpose": "maskable"
+		},
+		{
+			"src": "/img/icons/icons-512.png",
+			"type": "image/png",
+			"sizes": "512x512",
+			"purpose": "maskable"
+		},
+		{
+			"src": "/img/icons/icons-vector.svg",
+			"type": "image/svg+xml",
+			"sizes": "512x512",
+			"purpose": "any"
+		},
+		{
+			"src": "/img/icons/icons-192.png",
+			"type": "image/png",
+			"sizes": "192x192",
+			"purpose": "any"
+		},
+		{
+			"src": "/img/icons/icons-512.png",
+			"type": "image/png",
+			"sizes": "512x512",
+			"purpose": "any"
+		}
+	],
+	"id": "/",
+	"start_url": "/",
+	"background_color": "#1F1738",
+	"display": "standalone",
+	"scope": "/",
+	"theme_color": "#1F1738",
+	"screenshots": [
+		{
+			"src": "/img/screenshots/screenshot-narrow-home.png",
+			"type": "image/png",
+			"sizes": "800x800",
+			"form_factor": "narrow",
+			"label": "Home Screen"
+		},
+		{
+			"src": "/img/screenshots/screenshot-narrow-investmentPlans.png",
+			"type": "image/png",
+			"sizes": "800x800",
+			"form_factor": "narrow",
+			"label": "Investment Plans"
+		},
+		{
+			"src": "/img/screenshots/screenshot-wide-home.png",
+			"type": "image/png",
+			"sizes": "960x540",
+			"form_factor": "wide",
+			"label": "Home Screen"
+		},
+		{
+			"src": "/img/screenshots/screenshot-wide-investmentPlans.png",
+			"type": "image/png",
+			"sizes": "960x540",
+			"form_factor": "wide",
+			"label": "Investment Plans"
+		}
+	]
+}
