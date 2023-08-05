@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus=self.webpackChunkdocusaurus||[]).push([[306],{306:(s,u,c)=>{async function e(s){try{const s=await self.registration.pushManager.getSubscription();console.log("PUSH subscription:",s)}catch(s){console.error(s)}}c.r(u),c.d(u,{default:()=>e})}}]);
